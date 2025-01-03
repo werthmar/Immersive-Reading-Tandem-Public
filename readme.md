@@ -9,6 +9,9 @@ This project is designed to enhance the reading experience by leveraging immersi
 - OpenXR
 - Python
 
+## Video presentation (in german)
+You can watch a video of me using the App an a MetaQuest 3 using this [Link](https://1drv.ms/v/s!AoWzd_II_XBfjFBEKbPf8xNEaagc?e=Ecnc1v)
+
 ## Setup Instructions
 To run the project locally, follow these steps: 
 - German Tutorial only
