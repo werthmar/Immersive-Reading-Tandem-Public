@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ec818aed09db6349a1cf1f3ad102430, type: 3}
+  m_Name: StoryDataScriptableObject
+  m_EditorClassIdentifier: 
+  scenes:
+  - text: "Es war einmal ein kleines s\xFC\xDFes M\xE4dchen, das hatte jedermann
+      lieb, der sie nur ansah, am allerliebsten aber ihre Gro\xDFmutter."
+    textTranslation: Once upon a time there was a sweet little girl. Everyone who
+      saw her liked her, but most of all her grandmother.
+    interactiveScene: 0
+    audio: {fileID: 8300000, guid: 310e50aa989e4db48a68d3d22a180e53, type: 3}
+    "rotk\xE4ppchenMoveTarget": {x: 532.5923, y: 20.576244, z: 166.72842}
+    wolfMoveTarget: {x: 0, y: 0, z: 0}
+    newCameraPosition: {x: 531.641, y: 32.98, z: 200.421}
+    "rotk\xE4ppchenAnimation": 0
+    wolfAnimation: 0
+  - text: "Einmal schenkte sie ihr ein K\xE4ppchen von rotem Samt, und weil sie nichts
+      anders mehr tragen wollte, hie\xDF es nun das Rotk\xE4ppchen."
+    textTranslation: Once she gave her a cap made of red velvet. Because she wanted
+      to wear it all the time, she was named Little Red Riding Hood.
+    interactiveScene: 0
+    audio: {fileID: 8300000, guid: 3fabfacf3acf6184b8f56f83821815ad, type: 3}
+    "rotk\xE4ppchenMoveTarget": {x: 609.62305, y: 29.245064, z: 145.22516}
+    wolfMoveTarget: {x: 0, y: 0, z: 0}
+    newCameraPosition: {x: 615, y: 33.95, z: 114.99}
+    "rotk\xE4ppchenAnimation": 0
+    wolfAnimation: 0
+  - text: "Eines Tages sprach die Mutter: Komm, Rotk\xE4ppchen, da hast du ein St\xFCck
+      Kuchen und eine Flasche Wein, bring das der Gro\xDFmutter."
+    textTranslation: 'One day her mother said: Come Little Red Riding Hood. Here
+      is a piece of cake and a bottle of wine. Take them to your grandmother.'
+    interactiveScene: 0
+    audio: {fileID: 8300000, guid: dfecb2121c80c4f4898a4b80369f26c6, type: 3}
+    "rotk\xE4ppchenMoveTarget": {x: 693.3816, y: 22.52041, z: 191.02109}
+    wolfMoveTarget: {x: 0, y: 0, z: 0}
+    newCameraPosition: {x: 682.90845, y: 35.89, z: 215.33385}
+    "rotk\xE4ppchenAnimation": 0
+    wolfAnimation: 0
+  - text: "Geh vosichtig und lauf nicht vom Wege ab, sonst f\xE4llst du und zerbrichst
+      das Glas, und die Gro\xDFmutter hat nichts."
+    textTranslation: Walk cautiously, and do not leave the path, or you might fall
+      down and break the glass, and then there will be nothing left for grandmother.
+    interactiveScene: 0
+    audio: {fileID: 8300000, guid: bfe2feaf31e1e7d47868f987d7ab9511, type: 3}
+    "rotk\xE4ppchenMoveTarget": {x: 821.6477, y: 14.076557, z: 163.80121}
+    wolfMoveTarget: {x: 823.74097, y: 15.47687, z: 182.88211}
+    newCameraPosition: {x: 855.01575, y: 24.79, z: 198.57}
+    "rotk\xE4ppchenAnimation": 0
+    wolfAnimation: 0
+  - text: "Als Rotk\xE4ppchen tiefer in den Wald kam, begegnete ihr der Wolf. Rotk\xE4ppchen
+      aber wusste nicht, was das f\xFCr ein b\xF6ses Tier war."
+    textTranslation: When Little Red Riding Hood entered the woods a wolf came up
+      to her. But she did not know what a wicked animal he was.
+    interactiveScene: 0
+    audio: {fileID: 8300000, guid: 542a72e9f0c55154bb4687b44cf9dd15, type: 3}
+    "rotk\xE4ppchenMoveTarget": {x: 829.92365, y: 17.818607, z: 234.43607}
+    wolfMoveTarget: {x: 834.0092, y: 18.684658, z: 252.45207}
+    newCameraPosition: {x: 809.0874, y: 35.53, z: 253.48537}
+    "rotk\xE4ppchenAnimation": 0
+    wolfAnimation: 0
+  - text: "Guten Tag, Rotk\xE4ppchen! sprach er. Wo hinaus so fr\xFCh? Zur Gro\xDFmutter
+      sprach sie. Wo wohnt deine Gro\xDFmutter? Fragte er."
+    textTranslation: Good day to you he said, Where are you going so early?. To grandmother's
+      she replied. Where does your grandmother live? he asked.
+    interactiveScene: 0
+    audio: {fileID: 8300000, guid: dea9f28c511e58c4abe0fcde00be7c77, type: 3}
+    "rotk\xE4ppchenMoveTarget": {x: 852.652, y: 21.798695, z: 293.999}
+    wolfMoveTarget: {x: 855.75793, y: 21.256847, z: 303.75613}
+    newCameraPosition: {x: 883.85, y: 31.41, z: 301.01}
+    "rotk\xE4ppchenAnimation": 0
+    wolfAnimation: 0
+  - text: "Noch eine gute Viertelstunde weiter im Wald, unter den drei gro\xDFen
+      Eichb\xE4umen, da steht ihr Haus."
+    textTranslation: Her house is a good quarter hour from here in the woods, under
+      the three large oak trees.
+    interactiveScene: 0
+    audio: {fileID: 8300000, guid: af0d9c2849fef9e45b435acbbff1c706, type: 3}
+    "rotk\xE4ppchenMoveTarget": {x: 857.0485, y: 20.803398, z: 343.33377}
+    wolfMoveTarget: {x: 853.2437, y: 21.360552, z: 362.85764}
+    newCameraPosition: {x: 876.57, y: 31.41, z: 359.32}
+    "rotk\xE4ppchenAnimation": 0
+    wolfAnimation: 0
+  - text: 'Der Wolf dachte sich: Das junge, zarte Ding, das ist ein fetter Bissen,
+      der wird noch besser schmecken als die Alte.'
+    textTranslation: 'The wolf thought to himself: Now there is a tasty bite for
+      me. She will taste even better than the old grandmother.'
+    interactiveScene: 0
+    audio: {fileID: 8300000, guid: 3a0fe1335552a3242ae436d85b4aadd1, type: 3}
+    "rotk\xE4ppchenMoveTarget": {x: 850.8792, y: 22.444508, z: 371.5902}
+    wolfMoveTarget: {x: 840.218, y: 23.229435, z: 388.9032}
+    newCameraPosition: {x: 824.97, y: 32.678, z: 359.32}
+    "rotk\xE4ppchenAnimation": 0
+    wolfAnimation: 0
+  - text: "Da ging er ein Weilchen neben Rotk\xE4ppchen her, dann sprach er: Rotk\xE4ppchen,
+      siehst du die sch\xF6nen Blumen, die hier wachsen?"
+    textTranslation: 'The wolf walked alongside her for a while and said: haven''t
+      you seen the beautiful flowers that are blossoming here?'
+    interactiveScene: 0
+    audio: {fileID: 8300000, guid: 367ebed871c170f4f86f4f2cf29b11c1, type: 3}
+    "rotk\xE4ppchenMoveTarget": {x: 820.0465, y: 20.181732, z: 397.0443}
+    wolfMoveTarget: {x: 750.6941, y: 25.52991, z: 480.52393}
+    newCameraPosition: {x: 830.72, y: 37.5, z: 452.92}
+    "rotk\xE4ppchenAnimation": 0
+    wolfAnimation: 0
+  - text: "Rotk\xE4ppchen dachte: Wenn ich der Gro\xDFmutter einen frischen Strau\xDF
+      mitbringe, wird ihr das sicher Freude machen."
+    textTranslation: 'Little Red Ridding Hood thought: If a take a bouquet to grandmother,
+      she will be very pleased.'
+    interactiveScene: 0
+    audio: {fileID: 8300000, guid: 9197c1a83f1efc741b339bedb7e84da9, type: 3}
+    "rotk\xE4ppchenMoveTarget": {x: 830.811, y: 20.498495, z: 435.9693}
+    wolfMoveTarget: {x: 732.81213, y: 23.211946, z: 628.9056}
+    newCameraPosition: {x: 830.72, y: 37.5, z: 452.92}
+    "rotk\xE4ppchenAnimation": 0
+    wolfAnimation: 0
+  - text: "Sie lief vom Wege ab in den Wald hinein und suchte Blumen. Sie pfl\xFCckte
+      einen Straus aus frischen roten Rosen."
+    textTranslation: She ran off into the woods looking for flowers. She plucked
+      a boquet of fresh red roses.
+    interactiveScene: 0
+    audio: {fileID: 8300000, guid: dd04d1fe71a3f7e46a9fd95fa483ead2, type: 3}
+    "rotk\xE4ppchenMoveTarget": {x: 0, y: 0, z: 0}
+    wolfMoveTarget: {x: 732.81213, y: 23.211946, z: 628.9056}
+    newCameraPosition: {x: 788.306, y: 25.001, z: 485.236}
+    "rotk\xE4ppchenAnimation": 2
+    wolfAnimation: 0
+  - text: "Pfl\xFCcke die gleiche Blume wie Rotk\xE4ppchen vom Boden, benutze deine
+      H\xE4nde"
+    textTranslation: Pluck the same kind of Flowers that Little Red Riding Hood plucked
+      from the ground, use your hands
+    interactiveScene: 1
+    audio: {fileID: 8300000, guid: ac4225d66da670944b6fe1f93c8ca5e0, type: 3}
+    "rotk\xE4ppchenMoveTarget": {x: 387.25528, y: 38.26338, z: 746.75696}
+    wolfMoveTarget: {x: 399.6293, y: 37.04529, z: 752.257}
+    newCameraPosition: {x: 456.6794, y: 49.38, z: 805.82635}
+    "rotk\xE4ppchenAnimation": 1
+    wolfAnimation: 1
+  - text: "Der Wolf aber ging geradewegs nach dem Haus der Gro\xDFmutter und klopfte
+      an die T\xFCre."
+    textTranslation: But the wolf ran straight to the grandmother's house and knocked
+      on the door.
+    interactiveScene: 0
+    audio: {fileID: 8300000, guid: a9e8d78ed2fdf6249ad49c6ee431d7e9, type: 3}
+    "rotk\xE4ppchenMoveTarget": {x: 344.28598, y: 38.26391, z: 725.6011}
+    wolfMoveTarget: {x: 0, y: 0, z: 0}
+    newCameraPosition: {x: 371.5462, y: 48.31, z: 742.7476}
+    "rotk\xE4ppchenAnimation": 1
+    wolfAnimation: 2
+  - text: "Danke f\xFCrs Spielen!"
+    textTranslation: Thanks for playing!
+    interactiveScene: 0
+    audio: {fileID: 8300000, guid: a9e8d78ed2fdf6249ad49c6ee431d7e9, type: 3}
+    "rotk\xE4ppchenMoveTarget": {x: 0, y: 0, z: 0}
+    wolfMoveTarget: {x: 0, y: 0, z: 0}
+    newCameraPosition: {x: 0, y: 0, z: 0}
+    "rotk\xE4ppchenAnimation": 2
+    wolfAnimation: 2

@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: String Table_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 6c57fe287e09383449ba6da5dad9567f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 388678750208
+    m_Localized: QUIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6879586488320
+    m_Localized: SetLanguage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12818980999168
+    m_Localized: 'Look at your hands. You can interact with buttons using
+
+      your
+      hands.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13288181010432
+    m_Localized: "Activate buttons with your \nstretched out index finger."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13572819062784
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14053377249280
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16810402320384
+    m_Localized: Move Book
+    m_Metadata:
+      m_Items: []
+  - m_Id: 741822499328000
+    m_Localized: Music Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 741935493877760
+    m_Localized: asr4dvv API Connection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 741994675507200
+    m_Localized: Enter API Route
+    m_Metadata:
+      m_Items: []
+  - m_Id: 742200649388032
+    m_Localized: e.g. http://192.168.0.204:8000/v7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 742314474409984
+    m_Localized: TEST CONNECTION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 742423782166528
+    m_Localized: 'Output:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1536180366544896
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1536347031408640
+    m_Localized: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1539037052473344
+    m_Localized: Look at the palm of your hand. You can press the reset button, if
+      you loose the book.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1539098423529472
+    m_Localized: Grab objects with your index finger and thumb. You can move the
+      book by grabing the bar underneath it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1539113804042240
+    m_Localized: 'User your strechted out index
+
+      finger to interact with buttons.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1539133479522304
+    m_Localized: 'Look at your hands.
+
+      you can control all elements
+
+      with
+      your hands.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31524662790787072
+    m_Localized: Press the microphone button and read the text on the left side.
+      Press the button again, when you are finished.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31527102067970048
+    m_Localized: Correctly read words will be marked <color=green>green</color> and
+      falsely read words will be marked <color=blue>blue</color>.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31530004954157056
+    m_Localized: Press the audio button to hear the text read aloud.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31532363969138688
+    m_Localized: Press the "Play Button" to go to the next scene. You can only press
+      the button, when you have read at least 70% of the words  <color=green>correctly</color>.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32295775586160640
+    m_Localized: 'Translate
+
+      entire text'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32317999357562880
+    m_Localized: Touch a word to translate it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38460241096937472
+    m_Localized: Thanks for playing!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46385803371155456
+    m_Localized: ASR4DVV API connection failed, please input the correct URL in the
+      main menu under the settings tab. You can return to the main menu using the
+      house button.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

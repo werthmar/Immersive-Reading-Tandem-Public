@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: String Table_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 6c57fe287e09383449ba6da5dad9567f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 388678750208
+    m_Localized: BEENDEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6879586488320
+    m_Localized: SetLanguage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12818980999168
+    m_Localized: "Schaue auf deine H\xE4nde. Du kannst alle Element direkt mit deinen
+      H\xE4nden bedienen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13288181010432
+    m_Localized: "Bediene Kn\xF6pfe mit deinem ausgestreckten Zeigefinger."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13572819062784
+    m_Localized: Greife Objekte mit deinem Daumen und Zeigefinger. Greife den Balken
+      unter dem Buch. um das Buch zu bewegen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14053377249280
+    m_Localized: "Gucke auf deinen Handr\xFCcken und dr\xFCcke auf den \"RESET\"
+      Knopf, falls du das Buch verlierst."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16810402320384
+    m_Localized: Buch Bewegen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 741822499328000
+    m_Localized: " Musiklautst\xE4rke"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 741935493877760
+    m_Localized: asr4dvv  API Verbindung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 741994675507200
+    m_Localized: API Route eingeben
+    m_Metadata:
+      m_Items: []
+  - m_Id: 742200649388032
+    m_Localized: z.B. http://192.168.0.204:8000/v7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 742314474409984
+    m_Localized: Verbindung Testen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 742423782166528
+    m_Localized: 'Ergebnis:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1536180366544896
+    m_Localized: Starten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1536347031408640
+    m_Localized: Beenden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1539037052473344
+    m_Localized: "Schaue auf deine Handfl\xE4che. Dr\xFCcke den \"Reset\" Knopf,
+      falls du das Buch verlierst"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1539098423529472
+    m_Localized: Greife Objekte mit deinem Zeigefinger und Daumen. Du kannst das
+      Buch mit dem Balken darunter bewegen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1539113804042240
+    m_Localized: "Benutze deinen ausgestreckten Zeigefinger um Kn\xF6pfe zu bedienen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1539133479522304
+    m_Localized: "Schaue auf deine H\xE4nde.\nDu kannst alle Elemente mit deinen
+      H\xE4nden kontrollieren."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31524662790787072
+    m_Localized: "Dr\xFCcke den Mikrofonknopf und lese den Text (links). Dr\xFCcke
+      den Knopf  erneut, wenn du fertig gelesen hast."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31527102067970048
+    m_Localized: "Richtig gelesene W\xF6rter werden <color=green>gr\xFCn</color>
+      und falsch gelesene W\xF6rter <color=blue>blau</color> markiert."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31530004954157056
+    m_Localized: "Dr\xFCcke den Audio Knopf, um dir den Text laut vorlesen zu lassen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31532363969138688
+    m_Localized: "Dr\xFCcke den Play Knopf um zur n\xE4chsten Szene zu gehen. Der
+      Knopf ist nur aktiv, wenn mindestens 70% der W\xF6rter <color=green>richtig</color>
+      gelesen wurden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32295775586160640
+    m_Localized: "Ganzen Text\n\xFCbersetzen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32317999357562880
+    m_Localized: "Ber\xFChre ein Wort, um es zu \xFCbersetzen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38460241096937472
+    m_Localized: "Danke f\xFCrs Spielen!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46385803371155456
+    m_Localized: "ASR4DVV API Verbindung fehlgeschlagen. Bitte gebe die richtige
+      URL in den Einstellungen im Hauptmen\xFC ein. Du kannst mit dem Haus Knopf
+      in das Hauptmen\xFC zur\xFCckkehren."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

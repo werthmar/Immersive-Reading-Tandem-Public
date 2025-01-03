@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: AssetTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: AssetTable
+  m_TableCollectionNameGuidString: 5f443f8958bacc847bc72fc705328546
+  m_Entries:
+  - m_Id: 1399875112960
+    m_Key: MagicBook/MagicBook/book_split_armature/Armature/BookBone/LeftSideBone/CanvasLeft/LanguageButton/Image/Image
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1542074265440256
+    m_Key: MagicBook/MagicBook/book_split_armature/Armature/BookBone/RightSideBone/CanvasTutorial/Tutorial_HandTracking/Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1542074324160512
+    m_Key: MagicBook/MagicBook/book_split_armature/Armature/BookBone/RightSideBone/CanvasTutorial/Tutorial_HandTracking/Text
+      1
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items:
+    - rid: 698835920718659639
+    - rid: 698836016606740496
+    - rid: 698836016606740499
+  m_KeyGenerator:
+    rid: 698835920718659635
+  references:
+    version: 2
+    RefIds:
+    - rid: 698835920718659635
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1722087480836
+    - rid: 698835920718659639
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 1399875112960
+          m_TableCodes:
+          - de
+          - en
+        m_TypeString: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+    - rid: 698836016606740496
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 1542074265440256
+          m_TableCodes:
+          - de
+          - en
+        m_TypeString: TMPro.TMP_FontAsset, Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral,
+          PublicKeyToken=null
+    - rid: 698836016606740499
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 1542074324160512
+          m_TableCodes:
+          - de
+          - en
+        m_TypeString: UnityEngine.Material, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
