@@ -10,7 +10,7 @@ This project is designed to enhance the reading experience by leveraging immersi
 - Python
 
 ## Video presentation (in german)
-You can watch a video of me using the App an a MetaQuest 3 using this [Link](https://1drv.ms/v/s!AoWzd_II_XBfjFBEKbPf8xNEaagc?e=Ecnc1v)
+You can watch a video of me using the App an a MetaQuest 3 using this [Link](https://1drv.ms/v/s!AoWzd_II_XBfjFBEKbPf8xNEaagc?e=Ecnc1v).
 
 ## Setup Instructions
 To run the project locally, follow these steps: 
